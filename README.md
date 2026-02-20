@@ -1,9 +1,9 @@
-<img align="left" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo4NmdpODRnajhwZjAzMHo3MXh3ajM5enlpNXd1bHI1a3pjYXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="left" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo4NmdpODRnajhwZjAzMHo3MXh3ajM5enlpNXd1bHI1a3pjYXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img height="370" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdqZnRrOXczbm5nYWN3dnRzc2hyeWd6bGtwNWtuZTZ1eW51N3JsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1TUN3zYdooHBwXiX8r/giphy.gif"  />
+  <img height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdqZnRrOXczbm5nYWN3dnRzc2hyeWd6bGtwNWtuZTZ1eW51N3JsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1TUN3zYdooHBwXiX8r/giphy.gif"  />
 </div>
 
 ###
