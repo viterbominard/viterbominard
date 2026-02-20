@@ -1,15 +1,9 @@
-<br/>
-
 <img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Jia3JzYnc3emZ2bWQ4cHpqc3doendtbTJjM2g3aTJ1cHZxMm15byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
-
-###
 
 <div align="center">
   <img height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZyYTV5b2ZycnpmY3V3cjRxZHk1Ynpzc3VjNXAxa2x5eW8zaXVrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wutObkDACS8tTjiPNe/giphy.gif"  />
   <br/><br/>
 </div>
-
-###
 
 <div align="center">
   <a href="www.linkedin.com/in/john-minard-viterbo" target="_blank">
